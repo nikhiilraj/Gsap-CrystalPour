@@ -172,7 +172,7 @@ Bridging declarative state with imperative motion.
 
 ## Live Demo
 
-🔗 **Live URL:** *([add deployed link](https://negroni-tau.vercel.app/))*
+🔗 *([LIVE URL](https://negroni-tau.vercel.app/))*
 
 ---
 
